@@ -1,1 +1,1 @@
-# just_for_test
+# 基于Django、Redis、Angularjs、BootStrip开发出的数据库巡检应用
